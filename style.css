@@ -1,0 +1,41 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+#HourHand
+{
+    height: 55px;
+    width: 2px;
+    background-color: white;
+    top: 64.5px;
+    left: 1.8px;
+    border-radius: 4px;
+    opacity: 0.5;
+    transform-origin: bottom;
+}
+
+#MinutesHand
+{
+    height: 67px;
+    width: 2px;
+    background-color: white;
+    top: 52.7px;
+    left: -0.2px;
+    border-radius: 4px;
+    opacity: 0.5;
+    transform-origin: bottom;
+}
+#SecondHand
+{
+    height: 83px;
+    width: 2px;
+    background-color: white;
+    top: 37px;
+    left: -2.2px;
+    border-radius: 4px;
+    opacity: 0.5;
+    transform-origin: bottom;
+}
+
