@@ -17,12 +17,12 @@ Check out the live website: [Clock](https://aakashgaur03.github.io/Clock/)
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/simple-clock.git
+    git clone https://github.com/AakashGaur03/Clock
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd simple-clock
+    cd Clock
     ```
 
 3. Open the `index.html` file in your preferred web browser:
